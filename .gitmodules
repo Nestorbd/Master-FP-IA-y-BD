@@ -1,0 +1,18 @@
+[submodule "SPS"]
+	path = SPS
+	url = https://github.com/Nestorbd/SPS.git
+[submodule "7RO"]
+	path = 7RO
+	url = https://github.com/Nestorbd/7RO.git
+[submodule "BIU"]
+	path = BIU
+	url = https://github.com/Nestorbd/BIU.git
+[submodule "M2D"]
+	path = M2D
+	url = https://github.com/Nestorbd/M2D.git
+[submodule "SNS"]
+	path = SNS
+	url = https://github.com/Nestorbd/SNS.git
+[submodule "PROYECTO-FINAL"]
+	path = PROYECTO-FINAL
+	url = https://github.com/Nestorbd/scalar-coupling-constant-prediction.git
